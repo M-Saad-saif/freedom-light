@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    position: absolute;
+    display: flex;
+    /* position: fixed; */
+    /* color: white; */
+    z-index: 5;
+    justify-self: anchor-center;
+    letter-spacing: 13px;
+    color: azure;
+}
+
+span {
+    color: green;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 800px) {
+    h1 {
+        letter-spacing: 2px;
+        color: azure;
+        font-size: 17px;
+        top: 12px;
+        justify-self: anchor-center;
+    }
+}

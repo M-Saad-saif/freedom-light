@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="freedom icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="freedom.css">
+    <title>Freedom lights | SAAD</title>
+</head>
+
+<body>
+    <h1>HAPPY <span>INDEPENDENCE</span>DAY</h1>
+    <canvas></canvas>
+
+    <script src="freedom.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('service-worker.js')
+                    .then((reg) => {
+                        console.log('Service Worker registered at', reg.scope);
+                    }).catch((err) => {
+                        console.log('Service Worker registration failed:', err);
+                    });
+            });
+        }
+    </script>
+</body>
+
+</html>
