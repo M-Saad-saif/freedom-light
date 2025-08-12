@@ -1,11 +1,7 @@
 # 🎆 Pakistan Independence Day Fireworks 🎇  
-**Celebrate the 78th Independence Day of Pakistan 🇵🇰 with interactive green & white fireworks!**  
+**Celebrate the 78th Independence Day of Pakistan 🇵🇰 with interactive green & white fireworks!**
 
-![Pakistan Fireworks](./screenshot.png)  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-github-username/your-repo-name?color=green&label=Repo%20Size)  
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/your-repo-name?color=green)  
-![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-green?logo=javascript)  
+<img width="255" height="252" alt="pakistan icon" src="https://github.com/user-attachments/assets/4545ba49-ad30-4302-976a-7f65fdc253d8" />
 
 ---
 
@@ -25,11 +21,10 @@ This project is a simple yet vibrant **JavaScript fireworks animation** that let
 ---
 
 ## 📷 Demo  
-[🔗 Live Demo](https://your-github-username.github.io/your-repo-name/)  
+![freem light vedio](https://github.com/user-attachments/assets/8a311285-061d-4279-a488-2cb447c04513)
+ 
 
 ---
 
-## 🚀 How to Run Locally  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+## 🚀 Give it a try
+https://m-saad-saif.github.io/freedom-light/
